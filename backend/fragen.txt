@@ -1,0 +1,16 @@
+muss man die funktion imm moduel.exports wieder geben und im frontend export default constante
+
+
+file planes-doa.js .toArray() wozu das?
+
+planes-dao-js muss ich da product update oder den order?
+
+airplanes.js haben wir was in mongo eingeben müssen im feld?
+
+orders.js hat createdAt auch ein leeres feld?
+
+Ist async schneller as die normal promise methode?
+
+-------------------
+
+add-product-to-user-whishlist async function addProductToUserWishlist wozu die geschweiften klammern dabei mit den parametern
